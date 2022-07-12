@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-# Overview of the analysis: 
+# Overview: 
 
 This analysis was to create a supervised machine learning model that could accurately predict credit risk. In order to complete this task, I used 6 different methods, which are:
 
@@ -108,4 +108,5 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 # Summary: 
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+This analysis is trying to find the best model that can detect if a loan is high risk or not. Finding a model that lets the least amount of high risk loans pass through undetected would be best.That correlating statistic for this would be the recall rate for high risk. The one with the highest recall rate is Easy Ensemble Classifying with 93%, followed by Balanced Random Forest Classifying with 78.8%. 
+I would recommend Easy Ensemble Classification over any of the other 5 models.
