@@ -34,6 +34,7 @@ Through each of these methods, I split my data into training and testing dataset
 
 •	The high recall risk is about 73%, low recall risk is about 59%.
 
+
 **SMOTE Oversampling**
 
 ![2_bas](Resources/2_bas.png)
@@ -47,6 +48,7 @@ Through each of these methods, I split my data into training and testing dataset
 •	The high risk precision is about 1%, low risk precision is about 100%.
 
 •	The high recall risk is about 64%, low recall risk is about 70%.
+
 
 **Cluster Centroid Undersampling**
 
@@ -62,6 +64,7 @@ Through each of these methods, I split my data into training and testing dataset
 
 •	The high recall risk is about 62%, low recall risk is about 42%.
 
+
 **SMOTEENN Sampling**
 
 ![4_bas](Resources/4_bas.png)
@@ -75,6 +78,7 @@ Through each of these methods, I split my data into training and testing dataset
 •	The high risk precision is about 1%, low risk precision is about 100%.
 
 •	The high recall risk is about 80%, low recall risk is about 59%.
+
 
 **Balanced Random Forest Classifying**
 
@@ -90,6 +94,7 @@ Through each of these methods, I split my data into training and testing dataset
 
 •	The high recall risk is about 68%, low recall risk is about 90%.
 
+
 **Easy Ensemble Classifying**
 
 ![6_bas](Resources/6_bas.png)
@@ -104,7 +109,6 @@ Through each of these methods, I split my data into training and testing dataset
 
 •	The high recall risk is about 92%, low recall risk is about 94%.
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 # Summary: 
 
